@@ -72,18 +72,23 @@ Test Accuracy: 0.84
 
 #### Visualizations
 Model Summary
+
 <img width="763" height="592" alt="Screenshot 2025-08-13 203238" src="https://github.com/user-attachments/assets/2a23315e-0b4b-4c58-95fe-b5e8fff2c143" />
 
 Accuracy graph before Optimization 
+
 <img width="763" height="592" alt="Screenshot 2025-08-13 203247" src="https://github.com/user-attachments/assets/71252459-6786-4757-aa3b-19c8a0073957" />
 
 Accuracy graph after Optimization
+
 <img width="763" height="592" alt="Screenshot 2025-08-13 203254" src="https://github.com/user-attachments/assets/cc9f6997-0d7b-4894-be6e-950c376939ab" />
 
 Loss graph before Optimization
+
 <img width="763" height="592" alt="Screenshot 2025-08-13 203301" src="https://github.com/user-attachments/assets/fccce209-21f5-42db-a217-de5d2376ffd0" />
 
 Loss graph after Optimization
+
 <img width="763" height="592" alt="Screenshot 2025-08-13 203308" src="https://github.com/user-attachments/assets/92268237-7088-4df7-bb8d-808f91f8668a" />
 
 #### Assumptions
